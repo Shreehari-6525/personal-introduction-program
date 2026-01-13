@@ -1,0 +1,16 @@
+===================PERSONAL INTRO=======================
+What is Your Name? : Shreehari Patil
+How old are you? : 22
+What are your hobbies (seperated by ',')? : coding, swimming
+What kind of Education you are pursuing? : BE Computer Engineering
+Tell me name of your city: Pune City
+-----------------------------------------------------------
+
+
+                 🎉 Welcome Shreehari Patil 🎉
+                    You are 22 Years old..
+                  You Love coding, swimming
+         It's great to know that you're from Pune City
+also glad to know that you're currently learning BE Computer Engineering
+---------------------------------------------------------------------
+           Have a Wonderful day dear Shreehari Patil 😊
